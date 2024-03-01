@@ -10,4 +10,4 @@ To get started with Priyanshu's Quiz App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Priyanshu-Singhz/Quiz-App.git
+   git clone https://github.com/Priyanshu-Singhz/Quiz-App/
